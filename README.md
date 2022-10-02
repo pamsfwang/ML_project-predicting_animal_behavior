@@ -1,5 +1,5 @@
 # Predicting_animal_motion
-Predict animal motion onsets using neural activity data
+Predict animal motion onsets using neural activity data with various ML techniques.
 
 ## Goals
 Determine if there is a relationship between the behavior events in triggers.csv and the neural data in the ca_data csv files. If there is a relationship, characterize it. Consider the 4 ca_data csv files as independent experiments (i.e. recordings from different animals).
