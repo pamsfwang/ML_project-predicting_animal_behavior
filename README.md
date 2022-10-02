@@ -1,4 +1,4 @@
-# ML project: predicting_animal_motion
+# ML project: predicting_animal_behavior
 Predict animal motion onsets using neural activity data with various ML techniques.
 
 ## Goals
